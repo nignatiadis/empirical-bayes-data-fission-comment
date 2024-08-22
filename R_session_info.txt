@@ -1,0 +1,58 @@
+─ Session info ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ setting  value
+ version  R version 4.3.1 (2023-06-16)
+ os       macOS Sonoma 14.5
+ system   aarch64, darwin20
+ ui       RStudio
+ language (EN)
+ collate  en_US.UTF-8
+ ctype    en_US.UTF-8
+ tz       America/Chicago
+ date     2024-08-22
+ rstudio  2024.04.2+764 Chocolate Cosmos (desktop)
+ pandoc   3.2.1 @ /opt/homebrew/bin/pandoc
+
+─ Packages ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ package     * version date (UTC) lib source
+ cli           3.6.1   2023-03-23 [1] CRAN (R 4.3.0)
+ colorspace    2.1-0   2023-01-23 [1] CRAN (R 4.3.0)
+ crayon        1.5.2   2022-09-29 [1] CRAN (R 4.3.0)
+ dplyr       * 1.1.3   2023-09-03 [1] CRAN (R 4.3.0)
+ fansi         1.0.4   2023-01-22 [1] CRAN (R 4.3.0)
+ farver        2.1.1   2022-07-06 [1] CRAN (R 4.3.0)
+ generics      0.1.3   2022-07-05 [1] CRAN (R 4.3.0)
+ ggplot2     * 3.4.3   2023-08-14 [1] CRAN (R 4.3.0)
+ glue          1.6.2   2022-02-24 [1] CRAN (R 4.3.0)
+ gtable        0.3.4   2023-08-21 [1] CRAN (R 4.3.0)
+ isotone     * 1.1-1   2023-02-22 [1] CRAN (R 4.3.0)
+ labeling      0.4.3   2023-08-29 [1] CRAN (R 4.3.0)
+ lattice       0.21-9  2023-10-01 [1] CRAN (R 4.3.1)
+ lifecycle     1.0.3   2022-10-07 [1] CRAN (R 4.3.0)
+ magrittr      2.0.3   2022-03-30 [1] CRAN (R 4.3.0)
+ Matrix      * 1.6-1.1 2023-09-18 [1] CRAN (R 4.3.1)
+ munsell       0.5.0   2018-06-12 [1] CRAN (R 4.3.0)
+ nnls          1.5     2023-09-11 [1] CRAN (R 4.3.0)
+ pillar        1.9.0   2023-03-22 [1] CRAN (R 4.3.0)
+ pkgconfig     2.0.3   2019-09-22 [1] CRAN (R 4.3.0)
+ pkgload       1.3.3   2023-09-22 [1] CRAN (R 4.3.1)
+ purrr         1.0.2   2023-08-10 [1] CRAN (R 4.3.0)
+ R6            2.5.1   2021-08-19 [1] CRAN (R 4.3.0)
+ ragg          1.2.5   2023-01-12 [1] CRAN (R 4.3.0)
+ REBayes     * 2.54    2023-08-19 [1] CRAN (R 4.3.0)
+ rlang         1.1.1   2023-04-28 [1] CRAN (R 4.3.0)
+ Rmosek        10.1.14 2023-11-10 [1] local
+ rstudioapi    0.15.0  2023-07-07 [1] CRAN (R 4.3.0)
+ scales        1.2.1   2022-08-20 [1] CRAN (R 4.3.0)
+ sessioninfo * 1.2.2   2021-12-06 [1] CRAN (R 4.3.0)
+ systemfonts   1.0.4   2022-02-11 [1] CRAN (R 4.3.0)
+ textshaping   0.3.6   2021-10-13 [1] CRAN (R 4.3.0)
+ tibble        3.2.1   2023-03-20 [1] CRAN (R 4.3.0)
+ tidyr       * 1.3.0   2023-01-24 [1] CRAN (R 4.3.0)
+ tidyselect    1.2.0   2022-10-10 [1] CRAN (R 4.3.0)
+ utf8          1.2.3   2023-01-31 [1] CRAN (R 4.3.0)
+ vctrs         0.6.3   2023-06-14 [1] CRAN (R 4.3.0)
+ withr         2.5.1   2023-09-26 [1] CRAN (R 4.3.1)
+
+ [1] /Library/Frameworks/R.framework/Versions/4.3-arm64/Resources/library
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
