@@ -197,3 +197,4 @@ process_results <- function(results) {
 }
 
 result_summary <- process_results(results)
+write.table(result_summary[c(1,2,3,5,7),], file="double_poisson_MSE.csv")

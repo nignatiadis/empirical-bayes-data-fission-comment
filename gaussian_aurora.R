@@ -193,4 +193,4 @@ process_results <- function(results) {
 }
 
 result_summary <- process_results(results)
-print(result_summary)
+write.table(result_summary[c(1,2,3,5,7),], file="double_gaussian_MSE.csv")
